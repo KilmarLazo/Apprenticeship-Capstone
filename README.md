@@ -7,8 +7,6 @@ Hotel cancellations affect forecasting and controls, the two fundamental element
 
 ## Business Understanding
 
-When mortgage lenders receive loan pre-approval applications, it can be tedious to manually review the documents and decide whether to accept or decline the application. By implementing an automated process of approving the loan for applicants based on their information provided on online applications.
-
 **Business Stakeholder**
 - Hotels
 
