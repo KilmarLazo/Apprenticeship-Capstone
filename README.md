@@ -103,7 +103,7 @@ The metrics I used to evaluate the model performance were accuracy score and rec
 | Model | Accuracy | Recall Score |
 |-------|----------|----------------------------|
 | Logistic Regression | 81% | 95% |
-| Classified Randome Forest | 95% | 99% |
+| Classified Random Forest | 95% | 99% |
 | Classified Random Forest Tuned | 87% | 99% |
 
 ## Conclusion
