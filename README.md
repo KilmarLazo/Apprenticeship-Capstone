@@ -23,8 +23,8 @@ Hotel cancellations affect forecasting and controls, the two fundamental element
 Therefore, both the hotels and guests can benefit from this model, but we will focus more on the hotels for this specific problem.
 
 ## Data Understanding
-Hotels would require the data related to hotel bookings and whether their bookings were cancelled or not. Kaggle has a [dataset
-(https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand]) that provides booking information for a resort hotel and city hotel.
+Hotels would require the data related to hotel bookings and whether their bookings were cancelled or not. Kaggle has a dataset
+(https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) that provides booking information for a resort hotel and city hotel.
 
 This Kaggle dataset is suitable as it contains useful information about the guests. We will explore the data, build machine learning models, and evaluate the performance of the models. 
 
@@ -77,14 +77,14 @@ This Kaggle dataset is suitable as it contains useful information about the gues
 - Bookings with a non-refundable deposit were almost always cancelled
 - Bookings with refundable deposits were least likely to get cancelled
 
-**(Figure 3) Effect of Deposit Type on Cancellations**
+**(Figure 3) Effect of Lead Time on Cancellations**
 
 ![image](https://user-images.githubusercontent.com/110120531/216508891-1ea306d3-7060-4157-ba00-92fcba806279.png)
 
 - Lead time has a strong positive correlation with our target variable (is canceled)
 - As lead time increases, the chance of cancellation increases
 
-**(Figure 4) Effect of Deposit Type on Cancellations**
+**(Figure 4) Effect of Returning Guests on Cancellations**
 
 ![image](https://user-images.githubusercontent.com/110120531/216508921-e4024fe0-5418-4b01-a0a4-660a962bb2ee.png)
 
